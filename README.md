@@ -1,53 +1,51 @@
-# ⚡ CODE//SPRINT
+# ⚡ Short Code Challenge
 
-### A journey of logic, creativity & problem-solving.
+> Small challenges. Smart solutions. Consistent improvement.
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/PROJECT-CODE%20SPRINT-00ff88?style=for-the-badge&labelColor=080808](https://img.shields.io/badge/PROJECT-CODE%20SPRINT-00ff88?style=for-the-badge\&labelColor=080808)" />
-&#x20; \<img src="[https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge&labelColor=080808](https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge\&labelColor=080808)" />
-\</p>
+Welcome to my **Short Code Challenge** repository! This project is dedicated to improving my programming skills through short, focused coding challenges.
 
----
+## 🎯 Objective
 
-## `01` — THE MISSION
+- Improve problem-solving skills.
+- Practice clean and efficient code.
+- Strengthen programming fundamentals.
+- Build consistency through daily challenges.
+- Explore different approaches to solving problems.
 
-Not every coding session needs to be a massive project.
-
-**CODE//SPRINT** is my personal collection of short coding challenges designed to sharpen my logic, improve problem-solving abilities, and push my programming skills further.
-
-One challenge at a time. One improvement at a time.
-
-## `02` — WHAT'S INSIDE
-
-- 🧠 Logic-building challenges
-- ⚡ Short programming tasks
-- 🛠️ Practical coding exercises
-- 🎯 Problem-solving experiments
-- 📈 Continuous improvement
-
-## `03` — TECH STACK
-
-| Technology            | Purpose          |
-| :-------------------- | :--------------- |
-| Programming Languages | Core development |
-| VS Code               | Code editor      |
-| Git & GitHub          | Version control  |
-
-## `04` — PROGRESS TRACKER
+## 📂 Repository Structure
 
 ```text
-CHALLENGE_001  [ IN PROGRESS ]
-CHALLENGE_002  [ UPCOMING    ]
-CHALLENGE_003  [ UPCOMING    ]
+Short-Code-Challenge/
+│
+├── Challenge-01/
+├── Challenge-02/
+├── Challenge-03/
+├── Challenge-04/
+└── README.md
 ```
 
-*More challenges. More experience. Better code.*
+## 🛠️ Technologies
 
-## `05` — THE PHILOSOPHY
+- Programming languages: [Add languages]
+- Tools: VS Code, Git & GitHub
 
-> "Great developers aren't built by writing more code.
-> They're built by solving more problems."
+## 📈 Progress
+
+| Metric | Status |
+|---|---|
+| Challenges completed | In progress |
+| Problem-solving | Improving |
+| Code quality | Improving |
+| Consistency | Ongoing |
+
+## 💡 My Philosophy
+
+**Don't just write code. Learn to think like a developer.**
+
+Every challenge is an opportunity to improve, experiment, and become a better programmer.
 
 ---
 
-\<p align="center">   \<b>BUILT WITH CURIOSITY. POWERED BY LOGIC.\</b>   \<br/>   \<sub>© 2026 Asmit | CODE//SPRINT\</sub> \</p>
+⭐ Built with curiosity, consistency, and code.
+
+**Author:** Asmit
