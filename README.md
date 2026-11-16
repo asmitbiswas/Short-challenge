@@ -1,55 +1,46 @@
-# ⌘ CODE//LAB
+# SHORT CHALLENGE
 
-\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=THINK.+CODE.+SOLVE.;ONE+CHALLENGE+AT+A+TIME.;BUILDING+BETTER+LOGIC](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=700\&size=25\&duration=2500\&pause=1000\&color=00FF88\&center=true\&vCenter=true\&width=600\&lines=THINK.+CODE.+SOLVE.;ONE+CHALLENGE+AT+A+TIME.;BUILDING+BETTER+LOGIC)." /> \</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=050505&height=180&section=header&text=SHORT%20CHALLENGE&fontSize=48&fontColor=00E676&fontAlignY=50&desc=THINK%20%2F%20CODE%20%2F%20SOLVE&descAlignY=72&descSize=15](https://capsule-render.vercel.app/api?type=rect\&color=050505\&height=180\&section=header\&text=SHORT%20CHALLENGE\&fontSize=48\&fontColor=00E676\&fontAlignY=50\&desc=THINK%20%2F%20CODE%20%2F%20SOLVE\&descAlignY=72\&descSize=15)" width="100%" /> \</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/ENVIRONMENT-DEV-00ff88?style=flat-square&labelColor=080808](https://img.shields.io/badge/ENVIRONMENT-DEV-00ff88?style=flat-square\&labelColor=080808)" />   \<img src="[https://img.shields.io/badge/MODE-CHALLENGE-00ff88?style=flat-square&labelColor=080808](https://img.shields.io/badge/MODE-CHALLENGE-00ff88?style=flat-square\&labelColor=080808)" />   \<img src="[https://img.shields.io/badge/STATUS-ONGOING-00ff88?style=flat-square&labelColor=080808](https://img.shields.io/badge/STATUS-ONGOING-00ff88?style=flat-square\&labelColor=080808)" /> \</p>
+\<p align="center">   \<b>A collection of small challenges. A continuous journey of getting better.\</b> \</p>
 
 ---
 
-### `~/about`
+### ✦ About
 
-A personal coding playground where every challenge is an opportunity to think deeper, write smarter, and solve better.
+Short coding challenges designed to test logic, explore ideas, and sharpen problem-solving skills.
 
-No massive projects. No unnecessary complexity.
+Every challenge is a new problem. Every solution is a step forward.
 
-Just pure logic, focused practice, and continuous improvement.
+### ✦ What to Expect
 
-### `~/objectives`
+- Logic & problem-solving
+- Programming fundamentals
+- Creative solutions
+- Small, focused challenges
+- Continuous improvement
 
-```bash
-[01]  Sharpen problem-solving skills
-[02]  Improve logical thinking
-[03]  Write cleaner and smarter code
-[04]  Experiment with different approaches
-[05]  Become a better developer
-```
-
-### `~/workspace`
-
-| Component   | Description          |
-| :---------- | :------------------- |
-| Challenges  | Short coding tasks   |
-| Solutions   | My implementations   |
-| Experiments | Different approaches |
-| Progress    | Continuous learning  |
-
-### `~/progress`
+### ✦ Repository Structure
 
 ```text
-SYSTEM STATUS : ACTIVE
-MODE          : LEARNING
-FOCUS         : PROBLEM SOLVING
-MISSION       : LEVEL UP
-
-> More challenges loading...
+SHORT-CHALLENGE/
+│
+├── Challenge-01/
+├── Challenge-02/
+├── Challenge-03/
+├── Challenge-04/
+│
+└── README.md
 ```
+
+### ✦ Tech Stack
+
+Add the languages and tools used as the project grows.
 
 ---
 
 \<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=080808&height=2&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=080808\&height=2\&section=footer)" />
-&#x20; \<br/>
-&#x20; \<b>LESS TALK. MORE LOGIC.\</b>
-&#x20; \<br/>
-&#x20; \<sub>ENGINEERED BY ASMIT · 2026\</sub>
+&#x20; \<b>BUILD. BREAK. LEARN. REPEAT.\</b>
+&#x20; \<br/>\<br/>
+&#x20; \<sub>MADE BY ASMIT · 2026\</sub>
 \</p>
